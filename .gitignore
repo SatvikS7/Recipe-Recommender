@@ -1,0 +1,4 @@
+datasets/RAW_interactions.csv
+datasets/RAW_recipes.csv
+datasets/PP_recipes.csv
+*.pkl
